@@ -1,4 +1,4 @@
-# HelloTodo - Dale Grêmio Campeão
+# HelloTodo
 
 ## Overview
 HelloTodo is a simple todo list application created with [StrongLoop](https://strongloop.com/), [LoopBack](https://strongloop.com/node-js/loopback-framework/) and [Bluemix Mobile Services](http://www.ibm.com/cloud-computing/bluemix/solutions/mobilefirst/). It serves as a sample app demonstrating how to use the above technologies in order to create a mobile backend, enable authentication and collect monitoring data. 
